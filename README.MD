@@ -1,6 +1,6 @@
 # Enabling the second, hidden PCIe HIP on 5SGSMD5K1F40C1 (5SGSKF40I3LNAC) in Quartus Windows
 
-For Linux refer to [this repo](https://github.com/ruurdk/sv_second_pcie_hip/tree/main). 
+For Linux refer to [this repo](https://github.com/taylor891229/Modify-Quartus-FPGA-Customized-parts-Linux). 
 
 ## Getting started
 
